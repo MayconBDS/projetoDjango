@@ -1,1 +1,1 @@
-# VAI SE FUDER LUKINHAS
+# projetoDjango
